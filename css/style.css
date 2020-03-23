@@ -1,0 +1,9 @@
+.imagem1, .imagem2, .imagem3{
+    width: 100px;
+    height: auto;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
